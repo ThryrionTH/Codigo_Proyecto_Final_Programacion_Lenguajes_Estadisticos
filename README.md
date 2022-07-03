@@ -3,4 +3,4 @@ En este repositorio se encuentra el Codigo fuente del documento traducido Latext
 
 Hecho por: Ronald Mateo Ceballos Lozano
 
-//Ingenieria Mecatronica
+Ingenieria Mecatronica
